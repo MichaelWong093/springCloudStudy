@@ -1,4 +1,4 @@
-package com.ithuangwei.eurekazuulclient.component;
+package com.ithuangwei.eurekazuulclient.hystrix;
 
 import org.springframework.cloud.netflix.zuul.filters.route.ZuulFallbackProvider;
 import org.springframework.http.HttpHeaders;
